@@ -397,9 +397,7 @@ Anatomy Atelier is made **for educational purposes only**. It is not a medical d
 
 ---
 
-## 📄 License
 
-Add your preferred license (for example MIT) and include a `LICENSE` file in the repository.
 
 ---
 
